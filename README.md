@@ -6,6 +6,10 @@ An MCP server that provides real-time whale alerts on Hyperliquid, flagging posi
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+<a href="https://glama.ai/mcp/servers/@kukapay/hyperliquid-whalealert-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/hyperliquid-whalealert-mcp/badge" alt="hyperliquid-whalealert-mcp MCP server" />
+</a>
+
 ## Features
 
 - **Tool: `get_whale_alerts`**: Fetches recent whale transactions and returns them as a Markdown table using `pandas` for clean formatting.
@@ -100,4 +104,3 @@ This can be extended by LLMs to provide detailed metrics like total position val
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
