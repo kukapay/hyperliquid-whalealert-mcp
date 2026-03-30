@@ -15,6 +15,10 @@ An MCP server that provides real-time whale alerts on Hyperliquid, flagging posi
 - **Tool: `get_whale_alerts`**: Fetches recent whale transactions and returns them as a Markdown table using `pandas` for clean formatting.
 - **Prompt: `summarize_whale_activity`**: Generates a summary of whale transactions, including metrics like total position value and notable symbols.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-hyperliquid-whalealert-mcp).
+
 ## Prerequisites
 
 - **Python**: Version 3.10 or higher.
